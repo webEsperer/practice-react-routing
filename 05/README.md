@@ -1,8 +1,8 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Routing #05
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e08-react-routing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#05` React: Ścieżkowanie
 
 Tym razem utworz formularz, który pozwoli filtrować dane w sklepie.
 
@@ -14,8 +14,5 @@ Najlepiej będzie jak każdy z tych elementów umiejscowisz w charakterystycznym
 
 &nbsp;
 
-> **Podpowiedź!** Możesz użyć znaku `?`, aby określić, że dany parametr jest opcjonalny (może być pusty) tj. `<Route path={'/:minPrice?,:maxPrice?-:searchTerm?' {/*...*/} />`.
 
-&nbsp;
-
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:
