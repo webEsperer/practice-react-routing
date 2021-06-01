@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Routing #01
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e08-react-routing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#01` React: Ścieżkowanie
+
 
 Twoim zadaniem jest przygotować tak Routing, aby pod poniższymi adresami pojawiły się konkretne komponenty. Pamiętaj, że Twoja implementacja ma być wdrożona w pliku `Task01.js`.
 
@@ -11,4 +12,5 @@ Twoim zadaniem jest przygotować tak Routing, aby pod poniższymi adresami pojaw
 
 &nbsp;
 
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+
+> :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
