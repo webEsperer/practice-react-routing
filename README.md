@@ -1,15 +1,16 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # React: Ścieżkowanie
 
-Implementacja nawigacji dla serwisu (ang. Routing - Ścieżkowanie) jest bardzo ważnym elementem. W szczególności jeśli ma to być zrobione bez powielania kodu.
+Implementacja nawigacji dla serwisu (ang. routing) jest bardzo ważnym elementem – zwłaszcza jeśli ma to być zrobione bez powielania kodu.
 
-Idealnie jeśli nasze komponenty będziemy mogli wykorzystać na wiele podstronach i uzależniać  zawartość strony od parametrów przekazywanych w adresie URL.
+Najoptymalniej jest wykorzystywać te same komponenty na wielu podstronach i uzależniać zawartość strony od parametrów przekazywanych w adresie URL.
 
-Na szczęście przedstawione zagadnienia możemy zrealizować przy pomocy [React Router DOM](https://reactrouter.com/web/guides/quick-start), którego przedstawione zadania będą dotyczyć.
+Na szczęście możemy to zrealizować przy pomocy [React Router DOM](https://reactrouter.com/web/guides/quick-start).
+
+W zadaniach z tego repozytorium sprawdzisz swoje umiejętności właśnie z zakresu ścieżkowania (routingu).
 
 
 > Przypominam, że `npm i` instaluje zależności, a `npm start` uruchamia tryb deweloperski.
