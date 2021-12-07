@@ -7,9 +7,9 @@
 
 Tym razem w zależności od zawartości adresu URL masz wyświetlić informacje o danym produkcie.
 
-Np. Jeśli adres url wygląda w taki sposób: `/task02/product-1` na tej stronie ma sie wyświetlić informacje o produkcie o id=1. 
+Na przykład jeśli adres URL wygląda w taki sposób: `/task02/product-1`, to na tej stronie ma się wyświetlić informacja o produkcie o id=1. 
 
-Jeśli adres będzie wyglądał w taki sposób: `/task02/product-3` to mają się wyświetlić informacje o produkcie o id=3.
+Jeśli adres będzie wyglądał w taki sposób: `/task02/product-3`, to mają się wyświetlić informacje o produkcie o id=3.
 
 &nbsp;
 
