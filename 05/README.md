@@ -4,13 +4,13 @@
 
 # `#05` React: Ścieżkowanie
 
-Tym razem utworz formularz, który pozwoli filtrować dane w sklepie.
+Tym razem utwórz formularz, który pozwoli filtrować dane w sklepie.
 
 Pozwól użytkownikowi podać np. przedział cenowy oraz szukaną frazę, która ma wystąpić w nazwie lub w opisie.
 
-Zadanie wykonaj w taki sposób, aby dane zapisać w adresie URL i to na podstawie adresu wykonać filtrowanie.
+Zadanie wykonaj w taki sposób, aby dane zapisać w adresie URL i to na podstawie adresu wykonywać filtrowanie.
 
-Najlepiej będzie jak każdy z tych elementów umiejscowisz w charakterystycznym dla siebie miejscu np: `/[minPrice],[maxPrice]-[searchTerm]`. Dzięki takiemu rozwiązaniu nie będzie problemu z rozpoznaniem, gdzie znajduje się dana wartość.
+Najlepiej będzie, jeśli każdy z tych elementów umiejscowisz w charakterystycznym dla siebie miejscu, np.: `/[minPrice],[maxPrice]-[searchTerm]`. Dzięki takiemu rozwiązaniu nie będzie problemu z rozpoznaniem, gdzie znajduje się dana wartość.
 
 &nbsp;
 
