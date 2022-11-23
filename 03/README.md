@@ -4,7 +4,7 @@
 
 # `#03` React: Ścieżkowanie
 
-Tym razem masz wyświetlić listę produktów przy pomocy komponentu `<Shop/>` i zawartości pliku `./src/products.js`. Wyświetl inne produkty w zależności od kategorii, która została wprowadzona do adresu URL, tj.:
+Tym razem masz wyświetlić listę produktów przy pomocy gotowego komponentu `<Shop/>` i zawartości pliku `./src/products.js`. Wyświetl inne produkty w zależności od kategorii, która została wprowadzona do adresu URL, tj.:
 
 - `/task03/` => wszystkie produkty
 - `/task03/javascript` => category=JavaScript
