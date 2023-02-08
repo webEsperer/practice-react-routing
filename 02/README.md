@@ -11,6 +11,8 @@ Na przykład jeśli adres URL wygląda w taki sposób: `/task02/product-1`, to n
 
 Jeśli adres będzie wyglądał w taki sposób: `/task02/product-3`, to mają się wyświetlić informacje o produkcie o id=3.
 
+Zaimplementuj to rozwiązanie, tworząc nowy komponent `Product` – umieść go w nowym pliku `Product.js` w katalogu z komponentami.
+
 &nbsp;
 
 
