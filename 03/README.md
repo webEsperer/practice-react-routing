@@ -12,6 +12,8 @@ Tym razem masz wyświetlić listę produktów przy pomocy gotowego komponentu `<
 
 Każdy z wyświetlonych produktów ma prowadzić do podstrony produktu, którą wykonałeś w poprzednim zadaniu.
 
+Zwróć uwagę, że w pliku `Shop.js` jest już kod – import i render komponentu `Product`. Jeśli stworzony przez Ciebie w poprzednim zadaniu komponent nie działa w obrębie zaprezentowanego zapisu, zmodyfikuj `Product` tak, abyś nie musiał zmieniać renderu w `Shop.js`.
+
 &nbsp;
 
 
